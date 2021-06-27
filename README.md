@@ -1,4 +1,4 @@
-### Hola 👋, Mi nombre es Joel Vargas. 
+### Hola 👋, mi nombre es Joel Vargas. 
 #### Soy Full Stack Web Developer
 
 ![Soy Full Stack Web Developer](https://i.imgur.com/CprM7CH.png)
